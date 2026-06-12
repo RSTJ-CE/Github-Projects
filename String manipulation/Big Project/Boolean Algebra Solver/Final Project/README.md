@@ -19,4 +19,4 @@ It applies Boolean algebra theorems, factorisation, and verification to achieve 
 ### Limitations
 - Unable to handle inputs with brackets
 - Requires specific format of terms spaced with ' + '
-- Able to achieve minimal form 95% of the time
+- Accuracy may decrease for more complex problems
