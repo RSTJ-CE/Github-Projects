@@ -17,14 +17,14 @@ It applies Boolean algebra theorems, factorisation, and verification to achieve 
 - Displays algorithm and truth table
 
 ### Limitations
-- Unable to handle inputs with brackets
+- Unable to handle expressions with brackets
 - Requires specific format of terms spaced with ' + '
 - Accuracy may decrease for more complex problems
 
 ## Common questions
 
 ### Which variables are denoted as 'Not' variables?
-- Not variables are denoted with '!' at the front. !AB!CD means A and C are not variables
+- Not variables are denoted with '!' at the front. !AB!CD means A and C are 'Not' variables
 
 ### What's the purpose of sorting?
 -  the purpose of sorting the Boolean algebra expression is to make it visually clearer to the user, and to allow the expression to be simplified more easily by the algorithm.
