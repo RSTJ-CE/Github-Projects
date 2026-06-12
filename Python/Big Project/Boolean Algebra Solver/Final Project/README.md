@@ -20,7 +20,7 @@ It applies Boolean algebra theorems, factorisation, and verification to achieve 
 - Requires specific format of terms spaced with ' + '
 - Accuracy may decrease for more complex problems
 
-## Common questions
+## Commonly asked questions
 
 ### Which variables are denoted as 'Not' variables?
 - Not variables are denoted with '!' at the front. !AB!CD means A and C are 'Not' variables
