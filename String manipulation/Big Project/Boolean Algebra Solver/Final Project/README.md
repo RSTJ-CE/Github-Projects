@@ -13,7 +13,7 @@ It applies Boolean algebra theorems, factorisation, and verification to achieve 
 - Tkinter GUI
 - Boolean algebra simplification
 - Recursive algorithm
-- Verification of solution
+- Verify solution with truth table
 - Displays algorithm and truth table
 
 ### Limitations
