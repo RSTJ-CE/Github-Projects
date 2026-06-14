@@ -1,3 +1,5 @@
+%Code was used in MatLab analysis at https://thingspeak.mathworks.com/
+
 channelID =  3229434;
 ReadApiKey ='...';
 writeApiKey = '...';
